@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my development skills<br>🌱 I’m currently learning NextJs , Golang, React Native<br>💬 Ask me about MERN Stack<br>📫 How to reach me vedbshetye03@gmail.com
+🔭 I’m currently working on improving my development skills<br>🌱 I’m currently learning Rust , Golang, React Native<br>📫 How to reach me vedbshetye03@gmail.com
 
 
 ## 🌐 Socials:
