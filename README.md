@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my development skills<br>🌱 I’m currently learning Rust , Golang, React Native<br>📫 How to reach me vedbshetye03@gmail.com
+🔭 I’m currently working on improving my skills<br>🌱 I’m currently learning Rust , Golang, React Native<br>📫 How to reach me vedbshetye03@gmail.com
 
 
 ## 🌐 Socials:
